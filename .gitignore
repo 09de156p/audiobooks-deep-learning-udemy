@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+Audiobooks-data.csv
+Audiobooks_data_test.npz
+Audiobooks_data_train.npz
+Audiobooks_data_validation.npz
+TensorFlow_Audiobooks_Machine_Learning_Part2_with_comments.ipynb
+TensorFlow_Audiobooks_Machine_Learning_Part3_with_comments.ipynb
+TensorFlow_Audiobooks_Preprocessing_Solution.ipynb
